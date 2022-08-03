@@ -1,0 +1,16 @@
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.exe
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.deps.json
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.runtimeconfig.json
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.runtimeconfig.dev.json
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.dll
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\ref\DoOnce.dll
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\bin\Debug\net5.0\DoOnce.pdb
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.csproj.AssemblyReference.cache
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.AssemblyInfoInputs.cache
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.AssemblyInfo.cs
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.csproj.CoreCompileInputs.cache
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.dll
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\ref\DoOnce.dll
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.pdb
+C:\Users\marino.zirks\RiderProjects\DoOnce\DoOnce\obj\Debug\net5.0\DoOnce.genruntimeconfig.cache
